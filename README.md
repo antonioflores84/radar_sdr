@@ -4,3 +4,5 @@ This repository is dedicated to educational resources and practical implementati
 In this project a CW continuous wave radar is made using sdr, the processing and acquisition of the signals is done using Matlab/Simulink
 
 Append Matlab and Simulink files below
+
+File: RadartiemporealV21a.slx  include block diagram in Simulink (Transmitter & Reception). The version of Matlab is 21a.
